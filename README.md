@@ -1,6 +1,5 @@
 # agmsearch
-AGMサーチのソースコード・データのバックアップ
-
+---
 ## パスファインダー
 ### オンライン目録
 - AGMサーチ http://id.analoggamemuseum.org/
