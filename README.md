@@ -1,4 +1,5 @@
 # agmsearch
+AGMサーチのソースコード・データのバックアップ
 
 ## パスファインダー
 ### オンライン目録
@@ -6,6 +7,3 @@
 ### バックアップ
 ### SPARQLエンドポイント
 - DYDRA https://dydra.com/fukudakz/agm220104/@query
-
-## Description
-AGMサーチのソースコード・データのバックアップ
