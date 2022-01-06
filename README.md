@@ -8,6 +8,7 @@
 ## パスファインダー
 ### オンライン目録
 - AGMサーチ http://id.analoggamemuseum.org/
+- Omeka S https://omeka.org/s/
 ### オントロジー
 - GitHub https://raw.githubusercontent.com/fukudakz/agmsearch/main/ontology/ag210709.owl
 ### バックアップ
