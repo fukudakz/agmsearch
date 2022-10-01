@@ -15,5 +15,4 @@
 - GitHub https://github.com/fukudakz/agmsearch/tree/main/backup
 ### SPARQLエンドポイント
 - DYDRA
-  - https://dydra.com/fukudakz/agm220104/@query
-  - https://dydra.com/fukudakz/agm220925/sparql
+  - https://dydra.com/fukudakz/agmsearch221002/@query
