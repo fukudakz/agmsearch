@@ -8,7 +8,7 @@ CC0: 以下のデータセットバックアップ・SPARQLエンドポイント
 ## パスファインダー
 ### オンライン目録
 - AGMサーチ http://id.analoggamemuseum.org/
-  - Developed by Omeka S https://omeka.org/s/
+  - Powered by Omeka S https://omeka.org/s/
 ### オントロジー
 - GitHub https://raw.githubusercontent.com/fukudakz/agmsearch/main/ontology/ag210709.owl
 ### データセットバックアップ
