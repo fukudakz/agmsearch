@@ -8,11 +8,11 @@
 ## パスファインダー
 ### オンライン目録
 - AGMサーチ http://id.analoggamemuseum.org/
-- Omeka S https://omeka.org/s/
+  - Developed by Omeka S https://omeka.org/s/
 ### オントロジー
 - GitHub https://raw.githubusercontent.com/fukudakz/agmsearch/main/ontology/ag210709.owl
 ### バックアップ
 - GitHub https://github.com/fukudakz/agmsearch/tree/main/backup
-### SPARQLエンドポイント
-- DYDRA
-  - https://dydra.com/fukudakz/agmsearch221002/@query
+### SPARQLエンドポイント (CC0)
+- https://dydra.com/fukudakz/agmsearchendpoint/@query
+- Endpoint URL https://dydra.com/fukudakz/agmsearchendpoint/sparql
