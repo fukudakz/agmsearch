@@ -13,6 +13,6 @@ CC0: バックアップ・エンドポイントで公開するデータセット
 - GitHub https://raw.githubusercontent.com/fukudakz/agmsearch/main/ontology/ag210709.owl
 ### データセットバックアップ
 - GitHub https://github.com/fukudakz/agmsearch/tree/main/backup
-### SPARQLエンドポイント (CC0)
+### SPARQLエンドポイント
 - https://dydra.com/fukudakz/agmsearchendpoint/@query
 - Endpoint URL https://dydra.com/fukudakz/agmsearchendpoint/sparql
