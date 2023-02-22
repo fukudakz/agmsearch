@@ -10,7 +10,7 @@ CC0: 以下のデータセットバックアップ・SPARQLエンドポイント
 - AGMサーチ http://id.analoggamemuseum.org/
   - Powered by Omeka S https://omeka.org/s/
 ### オントロジー
-- GitHub https://raw.githubusercontent.com/fukudakz/agmsearch/main/ontology/ag210709.owl
+- GitHub https://raw.githubusercontent.com/fukudakz/agmsearch/main/ontology/ag230222.owl
 ### データセットバックアップ
 - GitHub https://github.com/fukudakz/agmsearch/tree/main/backup
 ### SPARQLエンドポイント
