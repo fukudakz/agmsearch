@@ -4,6 +4,7 @@
 
 ## ライセンス
 ![CC0_button](https://user-images.githubusercontent.com/24312431/221422087-2a3b476e-bd2c-45e1-bb0f-04fe4dd907b3.svg)
+
 以下のSPARQLエンドポイント・バックアップで提供されるメタデータは[クリエイティブ・コモンズ CC0 ライセンス](https://creativecommons.org/publicdomain/zero/1.0/deed.ja)のもとで利用できますが、法的な契約ではないものの、以下の点を踏まえてご利用ください。
 
 - 調査研究もしくはサービスやアプリでの二次利用の為、まとめてデータを利用する場合は、出典としてAGMサーチを明記してください。
